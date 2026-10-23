@@ -1,0 +1,7 @@
+export type EmployeeStatus = 'pending' | 'active' | 'inactive'
+export type RequirementStatus = 'pending' | 'submitted' | 'approved' | 'rejected'
+export type TaskStatus = 'Pending' | 'Completed'
+export type UserRole = 'hr' | 'employee'
+export type Department = 'Engineering' | 'HR' | 'Sales' | 'Marketing' | 'Finance' | 'Operations'
+export type EmployeeType = 'first_time' | 'experienced'
+export type IdCardStatus = 'active' | 'revoked'
